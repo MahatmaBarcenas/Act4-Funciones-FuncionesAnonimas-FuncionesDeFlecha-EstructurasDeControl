@@ -173,7 +173,8 @@ function reto3(persona){
 }
 
 reto3(sacha);
-## var sacha = {
+## Freturn.js
+var sacha = {
     nombre: 'Sacha',
     apellido: "Smith",
     edad: 15,
